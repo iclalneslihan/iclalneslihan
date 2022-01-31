@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm İclal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Turkey
+</h3>
 
 - 💬 Ask me about **C#,SQL,HTML,CSS**
 
