@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **C#,SQL,HTML,CSS**
 
-- 📫 How to reach me **iclalneslihangul@gmil.com**
+- 📫 How to reach me **iclalneslihangul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
